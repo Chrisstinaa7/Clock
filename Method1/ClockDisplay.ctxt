@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ClockDisplay
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ClockDisplay\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ClockDisplay()
+comment2.params=
+comment2.target=void\ clockTick()
+comment3.params=
+comment3.target=void\ updateDisplay()
+comment4.params=h\ m\ s
+comment4.target=void\ setTime(int,\ int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ getDisplay()
+numComments=6
